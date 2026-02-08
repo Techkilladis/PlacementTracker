@@ -13,4 +13,4 @@ This is a web-based Placement Portal Application developed for student appearing
 - Student
 
 The application supports company approvals, placement drive management,
-student applications, and placement tracking.
+student applications for placement tracking.
