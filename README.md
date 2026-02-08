@@ -1,2 +1,16 @@
-# PlacementTracker
-Placement Portal Application built using Flask, SQLite, Jinja2, and Bootstrap.The system manages student registrations, company approvals and job applications with role-based access.
+# Placement Portal Application
+
+This is a web-based Placement Portal Application developed for student appearing placements.
+
+## Technologies Used
+- Flask
+- SQLite
+- Jinja2, HTML, CSS, Bootstrap
+
+## Roles
+- Admin (Institute Placement Cell)
+- Companies
+- Student
+
+The application supports company approvals, placement drive management,
+student applications, and placement tracking.
